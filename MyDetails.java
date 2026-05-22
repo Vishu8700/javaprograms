@@ -7,6 +7,6 @@ public class MyDetails {
         System.out.println("My motherland is Gorakhpur");
         System.out.println("in my family we are 5 members mom & dad and two sisters");
         System.out.println("Now i am pursuing BCA from sunder deep group of inst");
-        
+
     }
 }
