@@ -12,6 +12,7 @@ public class FailFastCollection {
 
         for (Integer integer : list)
         {
+
             System.out.println(list);
             //list.add(45);
         }
